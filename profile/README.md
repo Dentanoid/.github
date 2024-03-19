@@ -1,12 +1,22 @@
-## Hi there 👋
+<div align="center">
 
-<!--
+![Dentanoid](https://avatars.githubusercontent.com/u/164094202?s=200&v=4)
 
-**Here are some ideas to get you started:**
+# DIT355 - Dentanoid
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**Dentanoid is your smile's best buddy in Gothenburg, Sweden! 🦷✨ Our app makes booking dental appointments a breeze, so you can schedule cleanings, consultations, and more with just a few taps! 📱 Dentists love it too – they can manage their schedules effortlessly and optimize time slots for your convenience. 😊💻 With Dentanoid, achieving a perfect, healthy smile is as easy as smiling itself! 😁💪**
+
+</div>
+
+## Members
+
+Dentanoid was made possible thanks to the contributions of these wonderful people!
+
+|   Member                  |                       Github                        |
+| :-----------------------: | :-------------------------------------------------: |
+| Cornelia                  |    [Github]()                                       |
+| James                     |    [Github]()                                       |
+| Joel                      |    [Github]()                                       |
+| Jonathan                  |    [Github]()                                       |
+| Lucas                     |    [Github]()                                       |
+| Mohamad                   |    [Github]()                                       |
