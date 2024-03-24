@@ -15,8 +15,8 @@ Dentanoid was made possible thanks to the contributions of these wonderful peopl
 |   Member                  |                       Github                        |
 | :-----------------------: | :-------------------------------------------------: |
 | Cornelia                  |    [Github]()                                       |
-| James                     |    [Github]()                                       |
+| James                     |    [Github](https://github.com/JamesKlouda)         |
 | Joel                      |    [Github]()                                       |
-| Jonathan                  |    [Github]()                                       |
+| Jonathan                  |    [Github](https://github.com/jonathBom)           |
 | Lucas                     |    [Github]()                                       |
-| Mohamad                   |    [Github]()                                       |
+| Mohamad                   |    [Github](https://github.com/Chef03)              |
