@@ -4,7 +4,7 @@
 
 # DIT355 - Dentanoid
 
-**Dentanoid is your smile's best buddy in Gothenburg, Sweden! 🦷✨ Our app makes booking dental appointments a breeze, so you can schedule cleanings, consultations, and more with just a few taps! 📱 Dentists love it too – they can manage their schedules effortlessly and optimize time slots for your convenience. 😊💻 With Dentanoid, achieving a perfect, healthy smile is as easy as smiling itself! 😁💪**
+**Dentanoid is your smile's best buddy in Gothenburg, Sweden! Our app makes booking dental appointments a breeze, so you can schedule cleanings, consultations, and more with just a few taps! Dentists love it too – they can manage their schedules effortlessly and optimize time slots for your convenience.
 
 </div>
 
